@@ -1,5 +1,7 @@
 # AWS Serverless Services using Spring boot
 
+Checkout Story behind this on [Medium](https://medium.com/@harshrathore1098/i-built-a-serverless-data-pipeline-using-aws-and-spring-boot-heres-what-i-learned-the-hard-way-934fc0d79cc7)
+
 In this Project, we will implement a full serverless solution using AWS Services and Java Spring boot as the framework for the processing.
 We will implement the below solution : 
 
